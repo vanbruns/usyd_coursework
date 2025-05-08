@@ -1,0 +1,142 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Van\lab1sim_nand2_vb
+vand2
+Z1 DXx6 sv_std 3 std 0 22 :CP]PHbGOHGT_H:3KF`8L2
+Z2 IBZ?lPnT3P8oWPYzLheA830
+Z3 V3EdggZ>V3z51fE;>K[51?2
+Z4 !s105 testbench_sv_unit
+S1
+Z5 dC:\Users\Van\ELEC5402\lab1sim_vb
+Z6 w1300199367
+Z7 Fand2_sch.v
+Z8 8C:/Users/Van/ELEC5402/lab1sim_vb/testbench.sv
+Z9 FC:/Users/Van/ELEC5402/lab1sim_vb/testbench.sv
+L0 31
+Z10 OP;L;10.0a;49
+r1
+31
+Z11 !s108 1300199374.122000
+Z12 !s107 and2_sch.v|C:/Users/Van/ELEC5402/lab1sim_vb/testbench.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-nocovercells|C:/Users/Van/ELEC5402/lab1sim_vb/testbench.sv|
+Z14 !s102 -nocovercells
+Z15 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+Z16 !s100 gSVBJSDzEAQ@VOC<UeHS?2
+!s85 0
+!s101 -O0
+vinv
+R1
+Z17 !s100 MM_Y9Gz4BL[C4GLIM]kAZ3
+Z18 IM;[Akho_MHC;DYE3^I7U:3
+Z19 VQM>0M8neWPD8B7MAN8?<31
+R4
+S1
+R5
+Z20 w1300806992
+Z21 For2_lay.v
+Z22 8C:\Users\Van\ELEC5402\lab1sim_vb\testbench.sv
+Z23 FC:\Users\Van\ELEC5402\lab1sim_vb\testbench.sv
+L0 6
+R10
+r1
+!s85 0
+31
+Z24 !s108 1300825050.703000
+Z25 !s107 or2_lay.v|C:\Users\Van\ELEC5402\lab1sim_vb\testbench.sv|
+Z26 !s90 -reportprogress|300|-work|work|-sv|-nocovercells|C:\Users\Van\ELEC5402\lab1sim_vb\testbench.sv|
+!s101 -O0
+R14
+R15
+vnand2
+R1
+Z27 !s100 2;Dk=8_az2Xm9dciFg:7e2
+Z28 I>^0OHYgn6=QhLAGRf_cTj3
+Z29 VozVX^M=XFCVO6i2>2kJnm2
+R4
+S1
+R5
+Z30 w1300430407
+Z31 Fnand2_sch.v
+R22
+R23
+L0 6
+R10
+r1
+31
+Z32 !s108 1300806165.805000
+Z33 !s107 nand2_sch.v|C:\Users\Van\ELEC5402\lab1sim_vb\testbench.sv|
+R26
+R14
+R15
+!s85 0
+!s101 -O0
+vnor2
+R1
+Z34 !s100 m1<haUNY]2DIGYikFaUNh1
+Z35 IoD]k^fl?i:c0Rzi>:K];o3
+Z36 VlgDXCzmWEJIHin<gA8d6C0
+R4
+S1
+R5
+R20
+R21
+R22
+R23
+L0 20
+R10
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+R14
+R15
+vor2
+R1
+Z37 !s100 hS>]<an>^;AT>YVWamIb83
+Z38 I<G=;XA:e@g64`2L9PhWdM3
+Z39 VPcFR>4dCUJC5DGga9leGA2
+R4
+S1
+R5
+R20
+R21
+R22
+R23
+L0 37
+R10
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+R14
+R15
+vtestbench
+R1
+Z40 !s100 S41Q<6UKHJ3F7aC35OkIY3
+Z41 I@GBAWcn2V0Yb4fj_PbeO:1
+Z42 VhGfW:390DM[oDMzegDH9`2
+R4
+S1
+R5
+R20
+R22
+R23
+L0 46
+R10
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+R14
+R15

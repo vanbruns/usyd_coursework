@@ -1,0 +1,123 @@
+C:/Users/Van/ELEC5402/lab2_vb/lab2sim_vb/mips_vb.sv {1 {vlog -work work -sv -nocovercells C:/Users/Van/ELEC5402/lab2_vb/lab2sim_vb/mips_vb.sv
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module muddlib07__invbuf_4x
+-- Compiling module muddlib07__mux2_dp_1x
+-- Compiling module wordlib8__mux2_1x_8
+-- Compiling module muddlib07__fulladder
+-- Compiling module wordlib8__adder_8
+-- Compiling module muddlib07__and2_1x
+-- Compiling module wordlib8__and2_1x_8
+-- Compiling module muddlib07__inv_1x
+-- Compiling module wordlib8__inv_1x_8
+-- Compiling module mips8_vb__condinv
+-- Compiling module muddlib07__mux4_dp_1x
+-- Compiling module wordlib8__mux4_1x_8
+-- Compiling module muddlib07__or2_1x
+-- Compiling module wordlib8__or2_1x_8
+-- Compiling module muddlib07__nand2_1x
+-- Compiling module muddlib07__nor2_1x
+-- Compiling module mips8_vb__yzdetect_8
+-- Compiling module mips8_vb__alu
+-- Compiling module muddlib07__clkinvbuf_4x
+-- Compiling module muddlib07__clkinvbufdual_4x
+-- Compiling module muddlib07__flop_dp_1x
+-- Compiling module wordlib8__flop_1x_8
+-- Compiling module muddlib07__flopenr_dp_1x
+-- Compiling module muddlib07__inv_4x
+-- Compiling module wordlib8__flopenr_1x_8
+-- Compiling module muddlib07__flopen_dp_1x
+-- Compiling module wordlib8__flopen_1x_8
+-- Compiling module muddlib07__mux2_c_1x
+-- Compiling module muddlib07__mux3_dp_1x
+-- Compiling module wordlib8__mux3_1x_8
+-- Compiling module muddlib07__nand3_1x
+-- Compiling module muddlib07__nand5_1x
+-- Compiling module mips8_vb__regram_zipper
+-- Compiling module mips8_vb__regram_dp
+-- Compiling module mips8_vb__regram_8
+-- Compiling module mips8_vb__regramvector_dp
+-- Compiling module mips8_vb__regram0
+-- Compiling module mips8_vb__regramvector0_dp
+-- Compiling module mips8_vb__regramarray_dp
+-- Compiling module datapath
+-- Compiling package mips_vb_sv_unit
+-- Compiling module testbench
+-- Compiling module exmemory
+-- Compiling module mips
+-- Compiling module controller
+-- Compiling module statelogic
+-- Compiling module outputlogic
+-- Compiling module controller_plabased
+-- Compiling module aludec
+-- Compiling module alu
+-- Compiling module regfile
+-- Compiling module zerodetect
+-- Compiling module flop
+-- Compiling module flopen
+-- Compiling module flopenr
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module mux4
+-- Compiling module andN
+-- Compiling module orN
+-- Compiling module inv
+-- Compiling module condinv
+-- Compiling module adder
+
+Top level modules:
+	testbench
+	controller_plabased
+	alu
+	regfile
+	flop
+	flopen
+	flopenr
+	mux3
+
+} {} {}} C:/Users/Van/ELEC5402/lab2_vb/lab2sim_vb/datapath.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab2_vb/lab2sim_vb/datapath.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module muddlib07__invbuf_4x
+-- Compiling module muddlib07__mux2_dp_1x
+-- Compiling module wordlib8__mux2_1x_8
+-- Compiling module muddlib07__fulladder
+-- Compiling module wordlib8__adder_8
+-- Compiling module muddlib07__and2_1x
+-- Compiling module wordlib8__and2_1x_8
+-- Compiling module muddlib07__inv_1x
+-- Compiling module wordlib8__inv_1x_8
+-- Compiling module mips8_vb__condinv
+-- Compiling module muddlib07__mux4_dp_1x
+-- Compiling module wordlib8__mux4_1x_8
+-- Compiling module muddlib07__or2_1x
+-- Compiling module wordlib8__or2_1x_8
+-- Compiling module muddlib07__nand2_1x
+-- Compiling module muddlib07__nor2_1x
+-- Compiling module mips8_vb__yzdetect_8
+-- Compiling module mips8_vb__alu
+-- Compiling module muddlib07__clkinvbuf_4x
+-- Compiling module muddlib07__clkinvbufdual_4x
+-- Compiling module muddlib07__flop_dp_1x
+-- Compiling module wordlib8__flop_1x_8
+-- Compiling module muddlib07__flopenr_dp_1x
+-- Compiling module muddlib07__inv_4x
+-- Compiling module wordlib8__flopenr_1x_8
+-- Compiling module muddlib07__flopen_dp_1x
+-- Compiling module wordlib8__flopen_1x_8
+-- Compiling module muddlib07__mux2_c_1x
+-- Compiling module muddlib07__mux3_dp_1x
+-- Compiling module wordlib8__mux3_1x_8
+-- Compiling module muddlib07__nand3_1x
+-- Compiling module muddlib07__nand5_1x
+-- Compiling module mips8_vb__regram_zipper
+-- Compiling module mips8_vb__regram_dp
+-- Compiling module mips8_vb__regram_8
+-- Compiling module mips8_vb__regramvector_dp
+-- Compiling module mips8_vb__regram0
+-- Compiling module mips8_vb__regramvector0_dp
+-- Compiling module mips8_vb__regramarray_dp
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}}

@@ -1,0 +1,103 @@
+C:/Users/Van/ELEC5402/lab1sim_vb/nand2_beh.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/nand2_beh.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module nand2
+
+Top level modules:
+	nand2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/and2_lay.v {1 {vlog -work work -nocovercells {C:\Users\Van\ELEC5402\lab1sim_vb\and2_lay.v}
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module inv
+-- Compiling module nand2
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/testbench.sv {1 {vlog -work work -sv -nocovercells {C:\Users\Van\ELEC5402\lab1sim_vb\testbench.sv}
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module inv
+-- Compiling module nor2
+-- Compiling module or2
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/nor2_lay.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/nor2_lay.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module nor2
+
+Top level modules:
+	nor2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/or2_sch.v {1 {vlog -work work -nocovercells {C:\Users\Van\ELEC5402\lab1sim_vb\or2_sch.v}
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module inv
+-- Compiling module nor2
+-- Compiling module or2
+
+Top level modules:
+	or2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/nand2_lay.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/nand2_lay.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module nand2
+
+Top level modules:
+	nand2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/or2_beh.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/or2_beh.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module or2
+
+Top level modules:
+	or2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/and2_sch.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/and2_sch.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module inv
+-- Compiling module nand2
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/and2_beh.v {1 {vlog -work work -nocovercells {C:\Users\Van\ELEC5402\lab1sim_vb\and2_beh.v}
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/nor2_sch.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/nor2_sch.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module nor2
+
+Top level modules:
+	nor2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/nor2_beh.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/nor2_beh.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module nor2
+
+Top level modules:
+	nor2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/or2_lay.v {1 {vlog -work work -nocovercells {C:\Users\Van\ELEC5402\lab1sim_vb\or2_lay.v}
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module inv
+-- Compiling module nor2
+-- Compiling module or2
+
+Top level modules:
+	or2
+
+} {} {}} C:/Users/Van/ELEC5402/lab1sim_vb/nand2_sch.v {1 {vlog -work work -nocovercells C:/Users/Van/ELEC5402/lab1sim_vb/nand2_sch.v
+Model Technology ModelSim PE Student Edition vlog 10.0a Compiler 2011.02 Feb 20 2011
+-- Compiling module nand2
+
+Top level modules:
+	nand2
+
+} {} {}}
